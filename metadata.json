@@ -1,0 +1,7 @@
+{
+  "name": "METLens Kids",
+  "description": "A fun, kid-friendly app that identifies objects from photos or videos and shows their names in Arabic or Malay, with audio pronunciation, to help children learn new words.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
